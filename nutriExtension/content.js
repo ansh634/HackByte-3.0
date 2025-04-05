@@ -1,0 +1,1 @@
+console.log("NutriScanner content script active.");
